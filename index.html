@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html ng-App="KRRclass" lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Food groups</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/angular.min.js"></script>
+	
+	<script src="js/Chart.min.js"></script>
+    <script src="js/angular-chart.min.js"></script>
+    
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/css-custom.css" rel="stylesheet">
+    
+	
+    <script src="main.js"></script>
+
+
+  </head>
+
+  <body  ng-controller="MainCtrl">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-acl mb-5">
+	  <a class="navbar-brand" href="#">
+	      <img src="logo4.jpg" height="50" alt="">
+		   Healty five
+	    </a>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mb-5">
+
+		 <!-- title  -->
+		 <div class="container mt-5 mb-5">
+		   <div class="row justify-content-md-center">
+		     <div class="col-md-auto">
+				 
+				<h3>Be healthy, be happy</h3> 
+		     </div>
+		   </div>
+		 </div>
+		
+		 <!-- end title  -->
+		 
+		 
+		<!-- what you have eaten  -->
+		 <div class="container mt-5 mb-5">
+		   <div class="row">
+		     <div class="col-6">
+			   <div class="card" >
+			     <div class="card-body">
+					<h5 class="card-title text-center">Check what you have eaten today</h5>
+				 </div>
+			  </div>
+			</div>
+			<div class="col-6">
+					<div class="card" >
+					  <div class="card-body">
+						<h5 class="card-title text-center">Food groups</h5>
+					  </div>
+					</div>
+				  </div>
+			<div class="col-3">
+					<div class="card" >
+					<div class="card-body">
+					<b><h7 class="card-title text-center">Vegetables</h7></b> <br> 
+					<input type="checkbox" id="Ras"> Green beans<br>
+					<input type="checkbox" id="Spi"> Spinach<br>
+					<input type="checkbox" id="Bro"> Broccoli<br>
+					<input type="checkbox" id="Let"> Carrot<br>
+					<input type="checkbox" id="Sal"> Aubergine<br>
+					<input type="checkbox" id="Tom"> Brussels sprouts<br>
+
+					<b><h7 class="card-title text-center">Grains</h7></b> <br> 
+					<input type="checkbox" id="Bre"> Bread<br>
+					<input type="checkbox" id="Pas"> Pasta<br>
+					<input type="checkbox" id="Ric"> Rice<br>
+					<input type="checkbox" id="Pot"> Potatoes<br>
+					
+					<b><h7 class="card-title text-center">Meat and dairy</h7></b> <br> 
+					<input type="checkbox" id="Che"> Cheese<br>
+					<input type="checkbox" id="Egg"> Eggs<br>
+					<input type="checkbox" id="Fis"> Fish<br>
+					<input type="checkbox" id="Mea"> Meat<br>
+					<input type="checkbox" id="Nut"> Nuts<br>
+					<input type="checkbox" id="Mil"> Milk<br>
+					<input type="checkbox" id="Yog"> Yoghurt<br>
+				</div>
+			</div>
+		  </div>
+		  <div class="col-3">
+				  <div class="card" >
+				  <div class="card-body">
+					<b><h7 class="card-title text-center">Fats</h7></b> <br> 
+					<input type="checkbox" id="But"> Butter<br>
+					<input type="checkbox" id="Coo"> Cooking oil<br>
+					<input type="checkbox" id="Oli"> Olive oil<br>
+					<input type="checkbox" id="Mar"> Margarine<br>
+					<input type="checkbox" id="Sun"> Sunflower oil<br>
+
+					<b><h7 class="card-title text-center">Fruit</h7></b> <br>
+					<input type="checkbox" id="Ban"> Banana<br>
+					<input type="checkbox" id="App"> Apple<br>
+					<input type="checkbox" id="Str"> Strawberries<br>
+					<input type="checkbox" id="Gra"> Grape<br>
+					<input type="checkbox" id="Pea"> Pear<br>
+				   
+							
+			     </div>
+			   </div>
+			 </div>
+			 <div class="col-6">
+					<div class="card" >
+					  <div class="card-body">
+						<canvas id="polar-area" class="chart chart-polar-area" chart-data="State" chart-labels="Groups" chart-options="Options"></canvas>
+						<button class="btn btn-outline-secondary" onclick="myFunction()" ng-click="visual()">Advice</button>
+						<p></p>
+						<p class="card-text" id="textWRONG" style="display:none"><b>Things you still have to eat: </b></p>
+						<p class="card-text" id="text1" style="display:none">- Vegetables</p>
+						<p class="card-text" id="text2" style="display:none">- Grains</p>
+						<p class="card-text" id="text3" style="display:none">- Meat and dairy</p>
+						<p class="card-text" id="text4" style="display:none">- Fats</p>
+						<p class="card-text" id="text5" style="display:none">- Fruits</p>
+						<p class="card-text" id="textADVICE" style="display:none">We have a recipe for you to step up your game!</p>
+						<p class="card-text" id="textGOOD" style="display:none">Good job, you eat diverse! We still have some recipes for you!</p>
+						
+						<button class="btn btn-outline-secondary" ng-click="launchMyGreatApp()" type="button">Get recipe</button>
+					  </div>
+					</div>
+				  </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-12"> </div>
+			<div class="col-6">
+				<div class="card" >
+					<div class="card-body">
+						<h5 class="card-title text-center">Cuisine</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-6">
+				<div class="card" >
+					<div class="card-body">
+						<h5 class="card-title text-center">Ingredients</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-6">
+				<div class="card" >
+					<div class="card-body">
+						<p id="text" style="display:block"><b>{{myDynamicData}}</b></p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-6">
+					<div class="card" >
+						<div class="card-body">
+
+							<ul>
+									<li ng-repeat="label in myDynamicLabels">{{label}}<li>
+							</ul>
+					</div>
+				</div>
+			</div>
+		   </div>
+		 </div> 	 
+		 <!-- end what you have eaten -->
+	
+	 
+		</div>
+ 
+
+		<!-- Footer -->
+		<footer class="footer  py-3 bg-dark">
+		  <div class="container">
+			<p class="m-0 text-center text-white">Copyright &copy; Vu_Td-CoopLab 2018</p>
+		  </div>
+		</footer>
+	
+		<!-- JavaScript libraries -->
+		
+		
+	
+	  </body>
+	
+	</html>

@@ -1,0 +1,907 @@
+
+<http://dbpedia.org/resource/Accessory_fruit> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Achaea_lienardi> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Achaea_macronephra> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Aggregate_fruit> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Agneau_de_pré-salé> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Ajethna> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Al_pastor> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Allspice> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Alphonso_(mango)> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Ambelopoulia> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Animal_product> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Annona_montana> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Annona_purpurea> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Apricot> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Arracacia_xanthorrhiza> a <http://example.org/Vegetables>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Artificial_marbling> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Ash_doough> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Asinan> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Asparagus> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Aspic> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Baby_corn> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Bactrocera_correcta> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Banana> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Barley> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Beef> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Berry_(botany)> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Blood_lime> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Bramble_fruit> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Broccolini> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Bushmeat> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Cabrito> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Capsule_(botany)> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Carambola> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Carnivore> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Carrot> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Caryocar_brasiliense> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Ceratitis> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Chaetostomella_cylindrica> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Charcuterie> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Chard> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Chenopodium_nuttalliae> a <http://example.org/Vegetables>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Cherimoya> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Cherry> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Chillcuring> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Choke_pear_(plant)> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Chomolia> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Chondrorrhina> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Chondrorrhina_abbreviata> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Chook_raffle> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Choy_sum> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Chwinamul> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Citron> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Citrus_depressa> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Coated_abrasive> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Coenraet_Roepel> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Collops> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Cultured_meat> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Curing_(food_preservation)> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Cutlet> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Doneness> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Donkey_meat> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Double-dead_meat> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Dried_apricot> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Dried_cherry> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Dried_fruit> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Drupe> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Eddoe> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Elaeocarpus_serratus> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Endive> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Environmental_impact_of_meat_production> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Euleia_lucens> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Factice> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Filindeu> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Flat_bean> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Florentine_citron> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Follicle_(fruit)> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Food_and_drink_prohibitions> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Footi> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Forcemeat> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Goji> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Grist> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Gundruk> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Haymarket_Square_(Boston)> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Heart_of_palm> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Hijiki> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/History_of_religious_pluralism> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Hot_link_(sausage)> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Igunaq> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Illipe> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Jambu_fruit_dove> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Kabosu> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Kaffir_lime> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Karashizuke> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Kentucky_meat_shower> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Kohlrabi> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Kola_nut> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Komatsuna> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Leek> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Lemonade_fruit> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/List_of_countries_by_meat_consumption> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/List_of_domesticated_meat_animals> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Lunch_meat> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Mangelwurzel> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Mango> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Marbled_meat> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Marmalade> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Marrow_(vegetable)> a <http://example.org/Vegetables>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Matoke> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Meat> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Meat-free_days> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Meat_emulsion> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Meat_raffle> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Meat_slurry> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Meat_tenderness> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Mercado_Modelo_(Montevideo)> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Mirabelle_plum> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Myoleja_angusta> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Mystery_meat> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/National_Meat_Institute> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/New_Harvest> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Nozawana> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Oat> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Offal> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Onion> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Orangelo> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Papaya> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Paracantha> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Parched_grain> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Parsnip> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Paspalum_scrobiculatum> a <http://example.org/Grains>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Passiflora_cuspidifolia> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Passiflora_loefgrenii> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Persian_berry> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Phantasmiella> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Plum> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Polybaphes> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Polybaphes_sanguinolenta> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Pome> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Pomelo> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Pork> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Poultry> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Procecidochares_atra> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Processed_meat> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Psychology_of_eating_meat> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Puffed_rice> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Pulasan> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Quails_in_cookery> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Quetschentaart> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Radish> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Rapini> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Raspberry> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Raw_meat> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Red_meat> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Rhagoletis> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Roadkill> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Roadkill_cuisine> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Roasting_jack> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Rojak> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Rose_hip> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Rutabaga> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Salt-cured_meat> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Sandoricum_koetjape> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Saskatchewan_Wheat_Pool> a <http://example.org/Grains>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Sausage> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Schizocarp> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Seafood> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Shipping_holiday> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Silique> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Sinki_(food)> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Siracusa_Lemon> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Soursop> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Stemilt_Growers> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Sugar-apple> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Sunflower_seed> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Tangerine> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Turnip> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Unusually_shaped_vegetable> a <http://example.org/Vegetables>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Vegetable_tarkari> a <http://example.org/Vegetables>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Victory_garden> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Wakame> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Warmed-over_flavor> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Wheat> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Wheat_production_in_the_United_States> a <http://example.org/Grains>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Whistling_fruit_dove> a <http://example.org/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/White_meat> a <http://example.org/Meat_and_diary>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Whole_grain> a <http://example.org/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Whole_stuffed_camel> a <http://example.org/Meat_and_diary>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Winter_squash> a <http://example.org/Fruits>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Wollenberg_Grain_and_Seed_Elevator> a <http://example.org/Grains>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://dbpedia.org/resource/Zacuscă> a <http://example.org/Vegetables>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://example.com/final25/alum> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains> .
+
+<http://example.com/final25/bread> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains> .
+
+<http://example.com/final25/cheese> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy> .
+
+<http://example.com/final25/citron> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> .
+
+<http://example.com/final25/corn> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains> .
+
+<http://example.com/final25/fruit> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> .
+
+<http://example.com/final25/gari> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fats> .
+
+<http://example.com/final25/hand> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> .
+
+<http://example.com/final25/ice> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains>, <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables> .
+
+<http://example.com/final25/jack> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy> .
+
+<http://example.com/final25/lemon> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> .
+
+<http://example.com/final25/lime> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> .
+
+<http://example.com/final25/mango> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> .
+
+<http://example.com/final25/meat> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy> .
+
+<http://example.com/final25/milk> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy> .
+
+<http://example.com/final25/oil> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fats> .
+
+<http://example.com/final25/orange> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> .
+
+<http://example.com/final25/pasta> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains> .
+
+<http://example.com/final25/pepper> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> .
+
+<http://example.com/final25/potatoes> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains> .
+
+<http://example.com/final25/pumpkin> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> .
+
+<http://example.com/final25/ragu> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables> .
+
+<http://example.com/final25/rib> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy> .
+
+<http://example.com/final25/rice> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains> .
+
+<http://example.com/final25/rum> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Grains> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2> a <http://www.w3.org/2002/07/owl#Ontology> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Apple> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Banana> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Blue_cheese> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Cheese>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Bread> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Bread>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Bread_crumbs> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Bread>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Broccoli> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Brown_rice> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Rice>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Butter> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Butter>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Cheese> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Cheese>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Chicken> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Cooked_rice> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Rice>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Cooking_oil> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Oils>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Egg_roll> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Eggs>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Egg_whites> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Eggs>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Eggs> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Eggs>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Fats> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Feta> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Cheese>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Fish> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fish>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Food> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Food_groups> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/French_bread> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Bread>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Grains> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Grape> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Greek_yogurt> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Yoghurt>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Ham> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Hamburger> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/HasEaten> a <http://www.w3.org/2002/07/owl#ObjectProperty> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Hazelnuts> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Nuts>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Healthy_person> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Henk> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Person>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Jan> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Person>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Lemon> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Lettuce> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Mackerel> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fish>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Margarine> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Butter>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Meat> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Meat_and_dairy> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Milk> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Milk>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Mozzarella> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Cheese>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Nuts> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Nuts>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Oil> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Oils>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Oils> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Olive_oil> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Oils>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Pasta> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Pasta>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Peanuts> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Nuts>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Pecans> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Nuts>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Penne_pasta> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Pasta>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Person> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Pistachio> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Nuts>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Pork> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Potatoes> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Potatoes>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Raspberries> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Rice> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Rice>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Rice_noodles> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Rice>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Salad> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Salmon> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fish>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Sardines> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fish>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Soy_milk> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Milk>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Spaghetti> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Pasta>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Spare_ribs> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Meat>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Spinach> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Strawberries> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Fruits>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Sunflower_oil> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Oils>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Sweet_potatoes> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Potatoes>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Tagliatelle> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Pasta>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Tomatoes> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Tuna> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Fish>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Vegetables> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/White_bread> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Bread>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Whole_milk> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Milk>, <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/25/milestone2/Yoghurt> a <http://www.semanticweb.org/hannahvisser/25/milestone2/Food>,
+    <http://www.semanticweb.org/hannahvisser/25/milestone2/Yoghurt>, <http://www.w3.org/2002/07/owl#Class>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/milestone/Apple> a <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/milestone/MacBook> a <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+<http://www.semanticweb.org/hannahvisser/milestone/iPhone> a <http://www.w3.org/2002/07/owl#NamedIndividual> .
+
+_:node1 a <http://www.w3.org/2002/07/owl#Class> .
+
+_:node11 a <http://www.w3.org/2002/07/owl#Restriction> .
+
+_:node3 a <http://www.w3.org/2002/07/owl#Restriction> .
+
+_:node5 a <http://www.w3.org/2002/07/owl#Restriction> .
+
+_:node7 a <http://www.w3.org/2002/07/owl#Restriction> .
+
+_:node9 a <http://www.w3.org/2002/07/owl#Restriction> .
